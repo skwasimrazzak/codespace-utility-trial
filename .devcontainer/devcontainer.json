@@ -7,7 +7,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"dsznajder.es7-react-js-snippets"
+				"dsznajder.es7-react-js-snippets",
+				"steoates.autoimport",
+				"formulahendry.auto-rename-tag"
 			]
 		}
 	}
